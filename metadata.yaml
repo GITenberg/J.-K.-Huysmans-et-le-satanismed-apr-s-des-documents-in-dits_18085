@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7797
     wikipedia: http://en.wikipedia.org/wiki/Joanny_Bricaud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18085#J.-K.-Huysmans-et-le-satanismed-apr-s-des-documents-in-dits
 gutenberg_bookshelf: FR Occultisme
 gutenberg_issued: '2006-03-30'
 gutenberg_type: Text
